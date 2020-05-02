@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588419094 source:c:\users\george\desktop\programming assignment 1- all 4 tasks selection\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
